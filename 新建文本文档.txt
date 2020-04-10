@@ -1,0 +1,7 @@
+安装 mqtt 相关的库。
+Sudo apt-get install libdev-mqtt
+2.3. 编译程序
+进入 gps_ws 
+ Catkin_make 
+进入 gps_Kalman
+Make
